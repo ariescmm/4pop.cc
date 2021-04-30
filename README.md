@@ -1,2 +1,2 @@
 # 4pop.cc
-1.8 PVP hacked client/
+1.8 PVP hacked client
