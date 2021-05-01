@@ -10,9 +10,10 @@
 
 
 𝙒𝙝𝙮
-
 I originally planned to make it a 1.12.2 client but due to irl issues i wasnt really able to do it.
 
-𝙖𝙗𝙤𝙪𝙩
+𝘼𝙗𝙤𝙪𝙩  
+self explanatory
 
-It's a 1.8 pvp hacked client, i dont think it should really stand out compared to other mainstream clients, clickgui soon???
+𝙊𝙩𝙝𝙚𝙧
+https://discord.gg/cYhKfnJsVZ
